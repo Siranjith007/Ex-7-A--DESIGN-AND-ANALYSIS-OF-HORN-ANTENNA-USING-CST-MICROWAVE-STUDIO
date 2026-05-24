@@ -3,10 +3,10 @@
 To design a Horn antenna operating at 5.5 GHz and to find the directivity andHalf power beam width form the radiation patterns. Software to be used: CST studio suite 2019 (Student edition)
 
 ## Design:
-<img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/d0e5934a-7e9a-41e2-96d5-f4f00c62077c" />
 
-<img width="1919" height="762" alt="image" src="https://github.com/user-attachments/assets/17c63c85-a2bd-4aae-91ed-84ceadb409fe" />
+<img width="1918" height="891" alt="image" src="https://github.com/user-attachments/assets/baa936c5-cfb8-4a42-a2c8-2e5c34da15fb" />
 
+<img width="1918" height="1073" alt="image" src="https://github.com/user-attachments/assets/df89ff89-8d52-4875-9dbb-ebdd0cb04e3d" />
 ####  Mathematical Calculation
 
 Tan θ/2 =a/2L L=a ^2/8 δ
@@ -38,3 +38,4 @@ U a L  2 we get a=110 mm for both E and H plane. 8
 ## Conclusion
 
 From this Experiment we have Designed a Horn-antenna which is Operating at a frequency of 5.5 GHz,from this we have Found the S11 C/s,Directivity and Radiation Pattern. From which we found that the Directivity to be near 15
+
